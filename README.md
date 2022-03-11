@@ -1,2 +1,2 @@
 # Optimal-Decision-Making-in-Two-Player-Games
-Minimax Algorithm, Alpha-Beta Search
+In this assignment Minimax Algorithm, Alpha-Beta Search used.
